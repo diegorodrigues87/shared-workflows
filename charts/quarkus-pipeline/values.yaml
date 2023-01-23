@@ -2,6 +2,6 @@ team: dummy
 repositoryOwner: dummy
 ownerType: organization
 repositoryName: dummy
-# apps.control-cluster-raffa.demo.red-chesterfield.com
+# apps.ocp-nprd-4-6.sp.elocloud
 baseURL: dummy
 workspaceSize: 1Gi
